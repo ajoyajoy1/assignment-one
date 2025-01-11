@@ -28,3 +28,44 @@
     border-radius: 8px;
     padding: 17px;
 }
+.target-cont{
+    
+    padding: 50px;
+      
+}
+.box{
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+    border-radius: 23px;
+}
+
+.html-box{
+    background-color: #5490F5;
+}
+.css-box{
+    background-color: #09A15C;
+}
+.js-box{
+    background-color: #FFC239;
+}
+.box-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+.button1{
+    background-color: #5490F5;
+    border-radius: 8px;
+    padding: 11px;
+}
+.button2{
+    background-color: #09A15C;
+    border-radius: 8px;
+    padding: 11px;
+}
+.button3{
+    background-color: #FFC239;
+    border-radius: 8px;
+    padding: 11px;
+}
